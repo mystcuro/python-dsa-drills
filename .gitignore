@@ -8,3 +8,7 @@ __pycache__/
 
 #workspace config
 python-dsa-drills.code-workspace
+
+#temp files
+temp.py
+solution.exercise.py

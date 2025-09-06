@@ -25,8 +25,13 @@ This repository is organized into several "Pomodoro" sessions, each designed to 
 
 1.  Clone this repository.
 2.  Open the project in VS Code.
-3.  Create your own virtual environment and install any necessary packages.
+3.  Create your own virtual environment and install any necessary packages. 
 4.  Navigate to a session folder (e.g., `Pomo_01_Lists`).
 5.  Open `practice.py` and follow the drills.
+
+## Resources
+1.  [Live](https://prod.bitsautomation.store "Python DSA Drills")
+2.  [Visual Studio](https://code.visualstudio.com/docs/python/python-tutorial "Getting Started with Python in VS Code")
+3.  [Python Doc](https://www.python.org/doc/ "Browse doc or download a copy")
 
 Happy coding!
